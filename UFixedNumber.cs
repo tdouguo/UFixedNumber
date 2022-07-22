@@ -1,4 +1,4 @@
-namespace TransformSync
+namespace TG
 {
     /// <summary>
     /// 定点数
